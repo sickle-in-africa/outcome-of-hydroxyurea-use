@@ -1,2 +1,2 @@
-# outcome-of-hydroxyurea-use
-R scripts for the Frontiers publication *Outcome of Hydroxyurea Use in SCD and Evaluation of Patients’ Perception and Experience in Nigeria*
+# Outcome of Hydroxyurea Use in SCD and Evaluation of Patients’ Perception and Experience in Nigeria
+R scripts for the Frontiers publication [https://www.frontiersin.org/articles/10.3389/fgene.2022.826132/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=826132](https://www.frontiersin.org/articles/10.3389/fgene.2022.826132/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=826132)
